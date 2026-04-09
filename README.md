@@ -188,7 +188,7 @@ The honest account. The decisions, the failures, the architecture that finally h
 
 > *If you want to understand the **why** behind local-first AI engineering — start here.*
 
-**🛒 [Buy on Amazon → B0F9WY9BW5](https://www.amazon.com/dp/B0F9WY9BW5)**
+**🛒 [Buy on Amazon → B0F9WY9BW5](https://amzn.to/4stq1Ih)**
 
 ---
 
@@ -199,7 +199,7 @@ The step-by-step manual. If the memoir is the story, this is the blueprint. The 
 
 > *Everything you need to build what I built — not just understand it.*
 
-**🛒 [Buy on Amazon → B0F35351JP](https://www.amazon.com/dp/B0F35351JP)**
+**🛒 [Buy on Amazon → B0F35351JP](https://amzn.to/41WQP8Q)**
 
 ---
 
@@ -208,7 +208,7 @@ The step-by-step manual. If the memoir is the story, this is the blueprint. The 
 
 A complete study guide with worked examples, statistical tables, and exam tips. Part of the Analytical Chemistry Series.
 
-**🛒 [Buy on Amazon → B0GQ6YKVDL](https://www.amazon.com/dp/B0GQ6YKVDL)**
+**🛒 [Buy on Amazon → B0GQ6YKVDL](https://amzn.to/48DeIGe)**
 
 ---
 
@@ -250,23 +250,6 @@ THE DAXINI STACK
 ║  APP    → logichub.app                   ║
 ╚══════════════════════════════════════════╝
 ```
-
----
-
-## `// REPO NAME SUGGESTIONS`
-
-Looking for a name for this repo? Here are options ranked by vibe:
-
-| Name | Vibe |
-|------|------|
-| `zayvora` | Clean. Exactly what it is. |
-| `daxini-stack` | Broad — covers the full architecture |
-| `sovereign-stack` | Philosophy-forward. Hits the mission. |
-| `local-first-ai` | SEO-friendly. Discoverable. |
-| `nex-zayvora-orchade` | Technical. For engineers who want to know exactly what they're getting. |
-| `daxini2404` | Personal brand namespace |
-
-**Recommended:** `zayvora` for the model repo, `daxini-stack` for the monorepo if you open-source the full architecture.
 
 ---
 
